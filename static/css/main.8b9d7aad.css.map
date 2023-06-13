@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8b9d7aad.css","mappings":"AAAA,MAEI,aAAwB,CADxB,oBAEJ","sources":["home.css"],"sourcesContent":["nav a{\r\n    text-decoration: none;\r\n    color: rgb(210, 223, 234)\r\n}"],"names":[],"sourceRoot":""}
